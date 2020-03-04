@@ -12,7 +12,7 @@
   "author": "Roberto Zaniboni <zaniboni@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "0.18.1",
     "express": "4.16.4",
     "express-graphql": "0.7.1",
     "graphql": "14.0.2"
